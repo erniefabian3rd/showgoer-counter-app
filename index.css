@@ -1,0 +1,45 @@
+body {
+    background-image: url("concert.jpg");
+    background-size: cover;
+    font-family: 'Metal Mania', cursive;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #faf2d8;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+}
+
+#increment-btn {
+    background: #66212b;
+}
+
+#save-btn {
+    background: #cb7259;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    background: #faf2d8;
+    border: 5px solid black;
+}
